@@ -2,12 +2,12 @@
   "name": "adapt-search",
   "repository": {
     "type": "git",
-    "url": "git://github.com/cgkineo/adapt-search"
+    "url": "https://github.com/dymitar/adapt-search"
   },
   "version": "3.0.0",
   "framework": ">=5",
-  "homepage": "https://github.com/cgkineo/adapt-search",
-  "issues": "https://github.com/cgkineo/adapt-search/issues/",
+  "homepage": " https://github.com/dymitar/adapt-search",
+  "issues": "",
   "extension": "search",
   "displayName": "Search",
   "description": "Keyword-search extension for Adapt",
